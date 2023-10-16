@@ -7,6 +7,8 @@
    2. Type "Rest Client: Switch Environment" in the command palette search bar and select it.
    3. Choose the "dev" environment from the available options.
 5. Now you can run any requests using the REST Client extension.
+![image](https://github.com/anetrebsky/restclient-template/assets/16680465/23f77eb3-6fc6-45ba-9190-05450d68e668)
+
 
 # Import from a Postman collection
 To convert a Postman Collection to a REST Client, you can use the tool available at https://github.com/alfathdirk/postman-to-vscode-rest-client. Follow these steps to achieve it:
