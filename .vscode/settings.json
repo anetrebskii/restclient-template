@@ -1,0 +1,12 @@
+{
+    "rest-client.previewOption": "exchange",  
+    "rest-client.defaultHeaders": {
+        "User-Agent": "vscode-restclient"
+    },
+    "rest-client.environmentVariables": {
+        "dev": {                        
+        },
+        "prod": {
+        }
+    }
+}
