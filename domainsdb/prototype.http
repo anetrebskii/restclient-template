@@ -1,0 +1,5 @@
+
+### Search for domain info
+# @prompt domain
+
+GET https://api.domainsdb.info/v1/domains/search?domain={{domain}}

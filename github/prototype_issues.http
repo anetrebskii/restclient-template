@@ -5,6 +5,6 @@
 GET https://api.github.com/orgs/{{owner}}/repos
 
 
-### Get Issues
+### Get GitHub Issues
 @repo = {{repos.response.body.$.[0].name}}
 GET https://api.github.com/repos/{{owner}}/{{repo}}/issues

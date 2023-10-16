@@ -1,5 +1,4 @@
 # Set up local environment
-
 1. Download and install [VS Code](https://code.visualstudio.com/).
 2. Install the REST Client extension for VS Code from the [marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client).
 3. Adjust the environment variables in the [settings.json](./.vscode/settings.json) file.
@@ -8,7 +7,6 @@
    2. Type "Rest Client: Switch Environment" in the command palette search bar and select it.
    3. Choose the "dev" environment from the available options.
 5. Now you can run any requests using the REST Client extension.
-![Alt text](.docs/sendrequest.png)
 
 # Import from a Postman collection
 To convert a Postman Collection to a REST Client, you can use the tool available at https://github.com/alfathdirk/postman-to-vscode-rest-client. Follow these steps to achieve it:
